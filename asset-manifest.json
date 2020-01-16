@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crwn-cloting/static/css/main.7500ff18.chunk.css",
+    "main.js": "/crwn-cloting/static/js/main.ff297024.chunk.js",
+    "main.js.map": "/crwn-cloting/static/js/main.ff297024.chunk.js.map",
+    "runtime-main.js": "/crwn-cloting/static/js/runtime-main.e8e2ad5f.js",
+    "runtime-main.js.map": "/crwn-cloting/static/js/runtime-main.e8e2ad5f.js.map",
+    "static/js/2.741c266d.chunk.js": "/crwn-cloting/static/js/2.741c266d.chunk.js",
+    "static/js/2.741c266d.chunk.js.map": "/crwn-cloting/static/js/2.741c266d.chunk.js.map",
+    "index.html": "/crwn-cloting/index.html",
+    "precache-manifest.20c8814daa812d3721d00c00030a8ad3.js": "/crwn-cloting/precache-manifest.20c8814daa812d3721d00c00030a8ad3.js",
+    "service-worker.js": "/crwn-cloting/service-worker.js",
+    "static/css/main.7500ff18.chunk.css.map": "/crwn-cloting/static/css/main.7500ff18.chunk.css.map",
+    "static/js/2.741c266d.chunk.js.LICENSE": "/crwn-cloting/static/js/2.741c266d.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/crwn-cloting/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8e2ad5f.js",
+    "static/js/2.741c266d.chunk.js",
+    "static/css/main.7500ff18.chunk.css",
+    "static/js/main.ff297024.chunk.js"
+  ]
+}
